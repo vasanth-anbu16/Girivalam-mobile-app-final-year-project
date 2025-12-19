@@ -115,4 +115,21 @@ Open-source community
 
 GitHub & React Native ecosystem
 
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.jpeg)
+
+### Girivalam Route & Map
+![Map Screen](screenshots/map.jpeg)
+
+### Ashta Lingam Details
+![Lingam Details](screenshots/lingam.png)
+
+### Festival Information
+![Festival Screen](screenshots/festival.png)
+
+### Profile & Settings
+![Profile Screen](screenshots/profile.png)
+
 

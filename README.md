@@ -46,7 +46,7 @@ The project follows a **client–server architecture**, with **React Native** as
 
 - 🔐 Secure user authentication using Firebase
 - 📍 Girivalam route and Ashta Lingam information
-- 🗓️ Festival and Full Moon notifications
+- 🗓️ Festival and Full Moon reminder & notifications
 - 🎶 Devotional songs and content
 - 📡 REST API-based backend integration
 - 📱 Cross-platform mobile support (Android)

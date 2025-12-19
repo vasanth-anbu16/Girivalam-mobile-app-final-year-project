@@ -84,6 +84,37 @@ The project follows a **client–server architecture**, with **React Native** as
 ### Profile Screen
 ![Profile](screenshots/profile.jpeg)
 
+🎓 Academic Details
+
+Project Type: Final Year MCA Project
+
+Domain: Mobile Application Development
+
+Architecture: Client–Server Model
+
+Institution: Adhiyamaan College Of Engineering. 
+
+👨‍💻 Developer
+
+Vasanth Anbu
+Frontend & Mobile App Developer
+React Native | Node.js | Python | AI Enthusiast
+
+🔗 GitHub: https://github.com/vasanth-anbu16
+
+🔗 LinkedIn: www.linkedin.com/in/vasanth-anbu-14ab33265
+
+⭐ Acknowledgements
+
+Faculty & mentors
+
+Open-source community
+
+GitHub & React Native ecosystem
+
+
+
+
 ## 🧩 Project Structure
 
 Girivalam-mobile-app-final-year-project/
@@ -117,33 +148,4 @@ node server.js
 cd frontend/girivalam-frontend
 npm install
 npm start
-
-🎓 Academic Details
-
-Project Type: Final Year MCA Project
-
-Domain: Mobile Application Development
-
-Architecture: Client–Server Model
-
-Institution: Adhiyamaan College Of Engineering. 
-
-👨‍💻 Developer
-
-Vasanth Anbu
-Frontend & Mobile App Developer
-React Native | Node.js | Python | AI Enthusiast
-
-🔗 GitHub: https://github.com/vasanth-anbu16
-
-🔗 LinkedIn: www.linkedin.com/in/vasanth-anbu-14ab33265
-
-⭐ Acknowledgements
-
-Faculty & mentors
-
-Open-source community
-
-GitHub & React Native ecosystem
-
 

@@ -116,3 +116,34 @@ Open-source community
 GitHub & React Native ecosystem
 
 
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home.jpeg)
+
+### Girivalam Map
+![Girivalam Map](screenshots/map.jpeg)
+
+### Girivalam Footpath
+![Footpath Map](screenshots/footpath-map.jpeg)
+
+### Full Moon Dates
+![Full Moon Dates](screenshots/fullmoon-dates.jpeg)
+
+### Events
+![Events](screenshots/events.jpeg)
+
+### AI Chat Assistant
+![AI Chat](screenshots/ai-chat.jpeg)
+
+### Music Section
+![Music](screenshots/music.jpeg)
+
+### Video Gallery
+![Video Gallery](screenshots/video-gallery.jpeg)
+
+### Feedback Screen
+![Feedback](screenshots/feedback.jpeg)
+
+### Profile Screen
+![Profile](screenshots/profile.jpeg)

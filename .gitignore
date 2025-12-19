@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment variables
+.env
+
+# React Native / Expo
+.expo/
+.expo-shared/
+android/app/build/
+ios/Pods/
+ios/build/
+
+# IDE
+.idea/
+.vscode/
+
+# Build
+dist/
+build/
+git add .
